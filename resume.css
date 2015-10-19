@@ -97,7 +97,7 @@ table
     }
 td
 {
-    padding: 2px;
+    padding: 5px;
     border: 1px solid #179b67;
     font-size: 18px
     }
@@ -128,7 +128,7 @@ td
 #room_add{
   margin: auto;
   padding-bottom: auto;
-  font-size: 20px;
+  font-size: 24px;
   padding: auto
   font-family: Verdana, sans-serif;
   color: #ffffff;
