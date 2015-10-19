@@ -128,7 +128,8 @@ td
 #room_add{
   margin: auto;
   padding-bottom: auto;
-font-size: 20px;
-font-family: Verdana, sans-serif;
-color: #ffffff;
+  font-size: 20px;
+  padding: auto
+  font-family: Verdana, sans-serif;
+  color: #ffffff;
 }
